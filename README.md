@@ -3,6 +3,7 @@ I'm a highly motivated Computer Science student specializing in Cybersecurity, c
 
 🎓 Education
 B.Tech in Computer Science (Specialization: Cybersecurity)
+
 Poornima College of Engineering, Jaipur, Rajasthan
 
 My academic journey has equipped me with a robust foundation in core computer science principles, alongside specialized knowledge in network security, incident response, vulnerability assessment, and secure coding practices.
@@ -16,19 +17,34 @@ Artificial Intelligence for Content Generation: Exploring the exciting intersect
 
 💻 Technical Toolkit
 Here's a comprehensive overview of my technical proficiencies:
+
 Programming Languages: Python 🐍 (Strong), C++, JavaScript (basics), HTML, CSS
+
 Operating Systems: Windows 11 (64-bit), Kali Linux (experienced with virtual environments like VirtualBox and dual-boot setups)
+
 Database Management: SQL
+
 Tools & Platforms: Git, VS Code, Terminal/Command Line, VirtualBox
 
 🌱 What I'm Currently Learning
+
 I believe in continuous learning and growth. My current focus areas include:
+
 Delving deeper into advanced cybersecurity frameworks and protocols.
+
 Hands-on experience with cloud security platforms (e.g., AWS, Azure).
+
 Exploring machine learning applications in threat detection and other cybersecurity domains.
+
 Actively contributing to personal projects that enhance my practical skillset.
 
+
 💬 Let's Connect!
+
 I'm always open to connecting with fellow enthusiasts, collaborators, and potential mentors. Feel free to reach out if you'd like to discuss technology, cybersecurity, or opportunities.
+
 Connect with me on LinkedIn: Your LinkedIn Profile Link Here
+
 Reach out via email: deepeshmahawar2006@gmail.com
+
+
