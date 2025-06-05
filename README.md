@@ -1,5 +1,10 @@
 Hi, I'm Deepesh Kumar Mahawar! 👋
-I'm a highly motivated Computer Science student specializing in Cybersecurity, currently pursuing my B.Tech at Poornima College of Engineering, Jaipur, Rajasthan. My approach to technology is defined by creativity, innovation, and a quiet yet persistent drive to learn and build secure, impactful solutions. I'm passionate about understanding how systems work and how to protect them, always eager to explore new challenges in the digital landscape.
+
+I'm a highly motivated Computer Science student specializing in Cybersecurity, currently pursuing my B.Tech at Poornima College of Engineering, Jaipur, Rajasthan. 
+
+My approach to technology is defined by creativity, innovation, and a quiet yet persistent drive to learn and build secure, impactful solutions. 
+
+I'm passionate about understanding how systems work and how to protect them, always eager to explore new challenges in the digital landscape.
 
 
 🎓 Education
