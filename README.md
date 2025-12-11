@@ -30,12 +30,12 @@ Hy I'm Deepesh Kumar Mahawar 👋<br>I’m currently learning Ethical Hacking, P
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
       <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=deepmaha2006&theme=dark&hide_border=false" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=deepmaha2006&theme=dark&hide_border=false" width="100"/>
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50%"/>
     </td>
     <td>
-      <img src="https://i.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="260">
+      <img src="https://i.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100">
     </td>
   </tr>
 </table>
