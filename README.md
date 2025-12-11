@@ -1,13 +1,3 @@
-python contribute.py --repository=https://github.com/deepmaha2006/TheNewProject.git --user_name=deepmaha2006 --user_email=deepeshmahawar2006@gmail.com
-
-
-
-https://github.com/Shpota/github-activity-generator.git
-
-
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV6NG02Y3puc3Zuc285YzNvanFuMGNqc2Rsam00YjQ3NjZqOHZ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
-
-
 # 💫 About Me:
 Hy I'm Deepesh Kumar Mahawar 👋<br>I’m currently learning Ethical Hacking, Pen-Testing, MERN Stack, and Secure Coding.<br>Ask me about Cybersecurity, Clean Code, UI Animations, and Secure Apps.<br>Check my resume : https://drive.google.com/file/d/1l-HWbtRj9KBynx2gdWhdbDNgmaDiegR4/view?usp=sharing<br>Fun fact: Introvert by nature, developer by passion
 
@@ -27,15 +17,11 @@ Hy I'm Deepesh Kumar Mahawar 👋<br>I’m currently learning Ethical Hacking, P
 
 <table>
   <tr>
-    <td width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-      <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=deepmaha2006&theme=dark&hide_border=false" width="100"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50%"/>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=deepmaha2006&theme=dark&hide_border=false" />
     </td>
     <td>
-      <img src="https://i.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100">
+      <img src="https://i.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="260">
     </td>
   </tr>
 </table>
