@@ -1,4 +1,4 @@
-Hy I'm Deepesh Kumar Mahawar 👋<br>I’m currently learning Ethical Hacking, Pen-Testing, MERN Stack, and Secure Coding.<br>Ask me about Cybersecurity, Clean Code, UI Animations, and Secure Apps.<br>Check my resume : https://drive.google.com/file/d/1l-HWbtRj9KBynx2gdWhdbDNgmaDiegR4/view?usp=sharing<br>Fun fact: Introvert by nature, developer by passion
+Hy I'm Deepesh Kumar Mahawar 👋<br>I’m currently learning Ethical Hacking, Pen-Testing, MERN Stack, and Secure Coding.<br>Ask me about Cybersecurity, Clean Code, UI Animations, and Secure Apps.<br>Check my resume : https://drive.google.com/file/d/1l-HWbtRj9KBynx2gdWhdbDNgmaDiegR4/view?usp=sharing<br><b>Fun fact:</b> Introvert by nature, developer by passion
 
 
 ## 🌐 Socials:
