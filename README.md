@@ -19,10 +19,11 @@ Hy I'm Deepesh Kumar Mahawar 👋<br>I’m currently learning Ethical Hacking, P
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV6NG02Y3puc3Zuc285YzNvanFuMGNqc2Rsam00YjQ3NjZqOHZ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="260">
+      <video src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.mp4" width="260" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deepmaha2006&icon=1&color=0)](https://visitcount.itsvg.in)
