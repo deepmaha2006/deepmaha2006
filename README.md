@@ -27,7 +27,7 @@ Hy I'm Deepesh Kumar Mahawar 👋<br>I’m currently learning Ethical Hacking, P
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <img src="https://github-readme-stats.vercel.app/api?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
       <br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=deepmaha2006&theme=dark&hide_border=false" width="100"/>
