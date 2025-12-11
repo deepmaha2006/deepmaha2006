@@ -11,21 +11,22 @@ Hy I'm Deepesh Kumar Mahawar 👋<br>I’m currently learning Ethical Hacking, P
 
 <table width="100%">
   <tr>
-    <!-- left column: stats (50% of available width) -->
+    <!-- left column: stats -->
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%" />
       <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=deepmaha2006&theme=dark&hide_border=false" width="100%" alt="Streak Stats" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=deepmaha2006&theme=dark&hide_border=false" width="100%" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmaha2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" />
     </td>
 
-    <!-- right column: gif (50% of available width) -->
+    <!-- right column: gif -->
     <td width="50%" valign="top" align="center">
-      <img src="https://i.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Cool GIF" />
+      <img src="https://i.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
+
 
 
 
