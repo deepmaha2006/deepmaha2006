@@ -1,11 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Deepesh%20Kumar%20Mahawar&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Expert%20%7C%20Full%20Stack%20Developer&descAlignY=55&descColor=ffffff" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=🛡️+Penetration+Tester+%7C+Ethical+Hacker;💻+Full+Stack+Web+Developer;🐍+Python+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;🔍+CTF+Player+%7C+Bug+Hunter;🌐+Network+Security+Analyst" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="250" style="object-fit: cover;"/>
 
 <br/>
 
+<h1>Deepesh Kumar Mahawar</h1>
+<h3>Cybersecurity Expert | Full Stack Developer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Penetration+Tester+%7C+Ethical+Hacker;Full+Stack+Web+Developer;Python+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;CTF+Player+%7C+Bug+Hunter;Network+Security+Analyst" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-mahawar/)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1a8o5d1iZ0m_glBZ2jLHyn8M2Jr3JNChw/view?usp=sharing&usp=embed_facebook)
 [![Visitor Count](https://komarev.com/ghpvc/?username=deepmaha2006&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/deepmaha2006)
 [![GitHub followers](https://img.shields.io/github/followers/deepmaha2006?style=for-the-badge&color=00ff41&labelColor=0d1117&label=FOLLOWERS)](https://github.com/deepmaha2006?tab=followers)
 
