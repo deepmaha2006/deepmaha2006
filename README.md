@@ -1,143 +1,91 @@
-<div align="center">
+<h2 align="center">Hey 👋, I'm Deepesh Kumar Mahawar</h2>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="250" style="object-fit: cover;"/>
+###
 
-<br/>
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRhZGlna21sd2tpYnM3ZHl5a25zNHM2czkybmgxcHhzZHV2a21oZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"  />
 
-<h1>Deepesh Kumar Mahawar</h1>
-<h3>Cybersecurity Expert | Full Stack Developer</h3>
+###
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Penetration%20Tester%20%7C%20Ethical%20Hacker;Full%20Stack%20Web%20Developer;Python%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20JavaScript;CTF%20Player%20%7C%20Bug%20Hunter;Network%20Security%20Analyst" alt="Typing SVG" />
+<h4 align="left">About Me</h4>
 
-<br/>
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-mahawar/)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1a8o5d1iZ0m_glBZ2jLHyn8M2Jr3JNChw/view?usp=sharing&usp=embed_facebook)
-[![Visitor Count](https://komarev.com/ghpvc/?username=deepmaha2006&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/deepmaha2006)
-[![GitHub followers](https://img.shields.io/github/followers/deepmaha2006?style=for-the-badge&color=00ff41&labelColor=0d1117&label=FOLLOWERS)](https://github.com/deepmaha2006?tab=followers)
+<p align="left">💻 Full Stack Developer with a strong focus on building efficient and scalable applications<br>🔐 Interested in Cybersecurity and secure system design<br>⚙️ Skilled in both frontend and backend development<br>🤝 Collaborative team player with hackathon and real-world experience<br>📈 Continuously learning, adapting, and improving problem-solving skills</p>
 
+###
+
+<h4 align="left">Skills</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
 </div>
 
----
+###
 
-## 🧠 About Me
+<h4 align="left">Social</h4>
 
-```python
-class DeepeshMahawar:
-    def __init__(self):
-        self.name        = "Deepesh Kumar Mahawar"
-        self.alias       = "deepmaha2006"
-        self.location    = "Kota, Rajasthan, India 🇮🇳"
-        self.email       = "deepeshmahawar2006@gmail.com"
-        self.focus       = ["Cybersecurity", "Full Stack Development", "Automation"]
-        self.languages   = ["Python", "C", "C++", "Java", "JavaScript", "SQL"]
-        self.tools       = ["Kali Linux", "Nmap", "Metasploit", "Burp Suite", "Wireshark"]
-        self.currently   = "Building tools that hack, secure, and automate 🚀"
-        
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something secure & powerful.")
+###
 
-me = DeepeshMahawar()
-me.say_hi()
-```
-
----
-
-## 🛡️ Cybersecurity Arsenal
-
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00427E?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/deepesh-mahawar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
----
-
-## 💻 Tech Stack
+###
 
 <div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & OS**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+  <img src="https://ghrs.vercel.app/api?username=deepmaha2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://ghrs.vercel.app/api/top-langs?username=deepmaha2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmaha2006&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
----
+###
 
-## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/github-contribution-grid-snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
-  <img height="180em" src="https://ghrs.vercel.app/api?username=deepmaha2006&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41"/>
-  <img height="180em" src="https://ghrs.vercel.app/api/top-langs/?username=deepmaha2006&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41"/>
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%22The%20quieter%20you%20become,%20the%20more%20you%20are%20able%20to%20hear.%22%20%E2%80%94%20Kali%20Linux%20motto&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepmaha2006&theme=chartreuse-dark&background=0d1117&border=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41" alt="GitHub Streak"/>
-</div>
-
----
-
-
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![NetSentinel](https://ghrs.vercel.app/api/pin/?username=deepmaha2006&repo=NetSentinel&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/NetSentinel)
-[![SecureVault](https://ghrs.vercel.app/api/pin/?username=deepmaha2006&repo=SecureVault&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/SecureVault)
-
-[![SQLShield](https://ghrs.vercel.app/api/pin/?username=deepmaha2006&repo=SQLShield&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/SQLShield)
-[![PhishGuard](https://ghrs.vercel.app/api/pin/?username=deepmaha2006&repo=PhishGuard&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/PhishGuard)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmaha2006&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-**"The quieter you become, the more you are able to hear."** — Kali Linux motto
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
+###
