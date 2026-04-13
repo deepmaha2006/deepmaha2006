@@ -7,7 +7,7 @@
 <h1>Deepesh Kumar Mahawar</h1>
 <h3>Cybersecurity Expert | Full Stack Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Penetration+Tester+%7C+Ethical+Hacker;Full+Stack+Web+Developer;Python+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;CTF+Player+%7C+Bug+Hunter;Network+Security+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Penetration%20Tester%20%7C%20Ethical%20Hacker;Full%20Stack%20Web%20Developer;Python%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20JavaScript;CTF%20Player%20%7C%20Bug%20Hunter;Network%20Security%20Analyst" alt="Typing SVG" />
 
 <br/>
 
@@ -92,8 +92,8 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepmaha2006&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmaha2006&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41"/>
+  <img height="180em" src="https://ghrs.vercel.app/api?username=deepmaha2006&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41"/>
+  <img height="180em" src="https://ghrs.vercel.app/api/top-langs/?username=deepmaha2006&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41"/>
 </div>
 
 <div align="center">
@@ -114,11 +114,11 @@ me.say_hi()
 
 <div align="center">
 
-[![NetSentinel](https://github-readme-stats.vercel.app/api/pin/?username=deepmaha2006&repo=NetSentinel&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/NetSentinel)
-[![SecureVault](https://github-readme-stats.vercel.app/api/pin/?username=deepmaha2006&repo=SecureVault&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/SecureVault)
+[![NetSentinel](https://ghrs.vercel.app/api/pin/?username=deepmaha2006&repo=NetSentinel&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/NetSentinel)
+[![SecureVault](https://ghrs.vercel.app/api/pin/?username=deepmaha2006&repo=SecureVault&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/SecureVault)
 
-[![SQLShield](https://github-readme-stats.vercel.app/api/pin/?username=deepmaha2006&repo=SQLShield&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/SQLShield)
-[![PhishGuard](https://github-readme-stats.vercel.app/api/pin/?username=deepmaha2006&repo=PhishGuard&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/PhishGuard)
+[![SQLShield](https://ghrs.vercel.app/api/pin/?username=deepmaha2006&repo=SQLShield&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/SQLShield)
+[![PhishGuard](https://ghrs.vercel.app/api/pin/?username=deepmaha2006&repo=PhishGuard&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/deepmaha2006/PhishGuard)
 
 </div>
 
