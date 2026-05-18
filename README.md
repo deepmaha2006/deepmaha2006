@@ -93,30 +93,6 @@ I'm a second-year B.Tech CSE (Cybersecurity) student who builds tools to **find 
 
 ---
 
-## `$ ls ./projects/ --sort=impact`
-
-### 🔐 [FraudShield — Digital Threat Analysis Engine](https://github.com/deepmaha2006)
-> **Python · Node.js · Express · SQLite · Tesseract OCR**
-
-OCR-based fraud-detection engine for KYC verification and transaction-log analysis — **nominated for Smart India Hackathon 2025** (Team: Drishti, IIC/2025-26/Q1/SIH/165).
-
-- Anomaly-detection pipeline processing **500+ transaction records** end-to-end with **~91% accuracy** in flagging high-risk KYC cases
-- Real-time monitoring dashboard with automated alerts — **sub-60s case escalation** across 3 fraud classifiers
-- Estimated **40% reduction** in manual triage time
-
----
-
-### 🌐 [TravelEase — Secure Responsive Web App](https://github.com/deepmaha2006)
-> **HTML5 · CSS3 · JavaScript**
-
-Mobile-first travel platform built with security-first architecture.
-
-- Applied **OWASP Top 10** controls: input sanitisation, XSS mitigation, CSP configuration
-- **~30% improvement** in page load responsiveness via lazy loading and asset bundling
-- Self-directed security review identifying and patching injection/XSS exposure points pre-deployment
-
----
-
 ## `$ cat ./certifications.log`
 
 ```
