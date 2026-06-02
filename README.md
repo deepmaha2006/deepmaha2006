@@ -96,15 +96,32 @@ I'm a second-year B.Tech CSE (Cybersecurity) student who builds tools to **find 
 ## `$ cat ./certifications.log`
 
 ```
-[APR 2026] ✅ Ethical Hacker                   — Cisco Networking Academy
-[APR 2026] ✅ Introduction to Cybersecurity    — Cisco Networking Academy
-[MAY 2026] ✅ Cyber Job Simulation             — Deloitte / Forage
-[MAY 2026] ✅ Internal Audit Job Simulation    — Goldman Sachs / Forage
-[APR 2026] ✅ AWS Cloud Practitioner Essentials — Amazon Web Services
-[APR 2026] ✅ Azure Fundamentals               — Microsoft Learn
-[APR 2026] ✅ Career Essentials in Gen AI      — Microsoft & LinkedIn
-[FEB 2026] ✅ Modern DevOps Practices          — 8Bit System / Poornima CE
-[AUG 2025] ✅ Design Thinking — A Primer (NPTEL) — IIT Madras / Swayam
+[APR 2026] ✅ Introduction to Python for Defensive Security — Red Team Leaders
+[APR 2026] ✅ Introduction to Penetration Testing — Security Blue Team
+[APR 2026] ✅ Tata - Cybersecurity Analyst Job Simulation — TATA / Forage
+[MAY 2026] ✅ Cybersecurity Analyst Job Simulation — (Certificate of Completion: May 28th, 2026)
+[APR 2026] ✅ Data Analyst - Big 4 Ready — OneRoadmap
+[MAY 2026] ✅ Cyber Job Simulation — Deloitte / Forage (Certificate of Completion: May 6th, 2026)
+[MAY 2026] ✅ Internal Audit Job Simulation — Goldman Sachs / Forage (Certificate of Completion: May 6th, 2026)
+[APR 2026] ✅ Ethical Hacker — Cisco Networking Academy
+[APR 2026] ✅ Introduction to Cybersecurity — Cisco Networking Academy
+[APR 2026] ✅ AWS Cloud Practitioner Essential — Amazon Web Services (26th April 2026)
+[APR 2026] ✅ Career Essentials in Generative AI by Microsoft and LinkedIn — Microsoft & LinkedIn (Completed Apr 30, 2026)
+[APR 2026] ✅ Introduction to Model Context Protocol — Anthropic (Issued: April 21, 2026)
+[APR 2026] ✅ Claude 101 — Anthropic
+[APR 2026] ✅ Claude Code in Action — Anthropic
+[APR 2026] ✅ Claude with Google Vertex AI — Anthropic (Issued: April 22, 2026)
+[APR 2026] ✅ AI Fluency: Framework & Foundations — Anthropic
+[APR 2026] ✅ Ethics in the Age of Generative AI — PMI (Completed Apr 30, 2026)
+[FEB 2026] ✅ Modern DevOps Practices: Search, Automation & Workflow Orchestration — 8Bit System / Poornima CE *(06-02-2026)*
+[EVENTS] ✅ Internal Smart India Hackathon 2025 — Participation Certificate *(Sept 15-16, 2025 | Nominated for SIH 2025)*
+[EVENTS] ✅ LNMHACKS 8.0 — Certificate of Participation
+[EVENTS] ✅ Smart India Hackathon 2025 — Nomination (Team Drishti) (Letter dated Sept 20, 2025)
+[AUG 2025] ✅ Design Thinking — A Primer (NPTEL) — IIT Madras / Swayam *(consolidated score: 48% | Jul-Aug 2025)*
+[EVENTS] ✅ Industrial Training (Web Development) — Renao Robotics Pvt Ltd *(15-day internship)*
+[APR 2026] ✅ HTML, CSS, JS Certificate
+[APR 2026] ✅ Deloitte Australia - Cyber Job Simulation — Deloitte / Forage
+[APR 2026] ✅ Azure Fundamentals — Microsoft Learn
 ```
 
 ---
