@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -19,7 +19,7 @@
 name        : Deepesh Kumar Mahawar
 role        : Cybersecurity Undergraduate | Aspiring SOC Analyst
 education   : B.Tech CSE (Cybersecurity) @ Poornima College of Engineering, Jaipur
-              CGPA: 8.44 / 10 | NAAC A+
+              CGPA: 9.23 / 10 | NAAC A+
 focus       : [ Penetration Testing, Threat Detection, Secure Development ]
 status      : Open to Internships 2025–26
 location    : Jaipur, Rajasthan, India
