@@ -1,180 +1,325 @@
-div align="center">
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║   DEEPESH KUMAR MAHAWAR  //  CYBERSECURITY ENGINEER          ║
-║   B.Tech CSE (Cybersecurity) @ Poornima College, Jaipur      ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0b1f14,100:00ff41&height=200&section=header&text=DEEPESH%20KUMAR%20MAHAWAR&fontSize=44&fontColor=e6ffe9&fontAlignY=36&desc=SOC%20Analyst%20(L1)%20%E2%80%A2%20Threat%20Detection%20%E2%80%A2%20Incident%20Response&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Deepesh Kumar Mahawar — SOC Analyst"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Penetration+Tester+%7C+Vulnerability+Researcher;Building+tools+that+find+what+attackers+look+for;Ethical+Hacker+%7C+Cisco+Certified+%7C+SIH+2025+Nominee;Breaking+systems+to+secure+them+%E2%80%94+ethically.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=%5BALERT%5D+Triaging+SIEM%2FXDR+events+%E2%80%94+Wazuh+%7C+Splunk;%5BHUNT%5D+Separating+true+positives+from+noise;%5BMAP%5D+Every+detection+mapped+to+MITRE+ATT%26CK;%5BESCALATE%5D+Evidence-backed+handoffs+to+Tier+2;%5BOFFENSE%5D+Thinking+like+an+attacker+to+detect+better" alt="Typing SVG"/></a>
+
+<p>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SOC%20ROLES%20%26%20INTERNSHIPS-00ff41?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
+<img src="https://img.shields.io/badge/TryHackMe-TOP%202%25%20GLOBAL-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe Top 2%"/>
+<img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" alt="Cisco Ethical Hacker"/>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/deepesh-mahawar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:deepeshmahawar2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://tryhackme.com/p/deepeshmaha2006"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+<a href="https://leetcode.com/u/deeponworkattime/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<img src="https://komarev.com/ghpvc/?username=deepmaha2006&style=flat-square&color=00ff41&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 </div>
 
 ---
 
-## `$ whoami`
+## 🛡️ `$ whoami`
 
 ```yaml
-name        : Deepesh Kumar Mahawar
-role        : Cybersecurity Undergraduate | Aspiring SOC Analyst
-education   : B.Tech CSE (Cybersecurity) @ Poornima College of Engineering, Jaipur
-              CGPA: 9.23 / 10 | NAAC A+
-focus       : [ Penetration Testing, Threat Detection, Secure Development ]
-status      : Open to Internships 2025–26
-location    : Jaipur, Rajasthan, India
-contact     : deepeshmahawar2006@gmail.com
+analyst:
+  name        : Deepesh Kumar Mahawar
+  role        : SOC Analyst (Tier 1 / L1) · Cybersecurity Analyst
+  location    : Jaipur, Rajasthan, India  (IST, UTC+05:30)
+  education   : B.Tech CSE (Cyber Security) — Poornima College of Engineering, Jaipur (NAAC A+, RTU Kota)
+  grades      : CGPA 7.59/10 · rising trend → Sem III SGPA 8.44 → Sem IV SGPA 9.21
+  graduating  : Apr 2028 (expected)
+  focus       : [ Alert Triage, Log Analysis, Threat Detection, Incident Response, Web App Pentesting ]
+  frameworks  : [ MITRE ATT&CK, OWASP Top 10, CVSS, NIST IR Lifecycle ]
+  looking_for : SOC Analyst / Security Analyst roles — in-house SOC, MSSP or MDR
 ```
 
----
-
-## `$ cat about.txt`
-
-I'm a second-year B.Tech CSE (Cybersecurity) student who builds tools to **find vulnerabilities before attackers do**. My work spans web app security assessments, automated scanners, SIEM-based threat detection, and secure full-stack development.
-
-- **FraudShield** — OCR-based anomaly engine achieving ~91% accuracy in KYC fraud detection; nominated for Smart India Hackathon 2025 by Poornima College IIC
-- Hands-on with **Burp Suite, Metasploit, Wireshark, Nmap, Wazuh SIEM** across real assessments and labs
-- Studying **OWASP Top 10**, network traffic analysis, and intrusion detection systems
-- Practicing on **TryHackMe** and **Hack The Box** — learning by breaking things (ethically)
-
----
-
-## `$ ls ./security-toolkit/`
+I'm a cybersecurity undergraduate who works on the blue team with a red-team background. I **monitor, triage and escalate**: confirming or adjusting alert criticality, enriching events with context, filtering out false positives and handing real incidents to Tier 2 with clear, evidence-backed write-ups. My web-app pentesting background (OWASP Top 10, Burp Suite, Metasploit) means I know what an attack looks like *before* it shows up in the logs.
 
 <div align="center">
 
-| Domain | Tools & Skills |
-|---|---|
-| **Penetration Testing** | Burp Suite, Metasploit, Nmap, Kali Linux, Manual Web App Assessments |
-| **Network Security** | Wireshark, Traffic Analysis, IDS/IPS Concepts, Firewall Principles |
-| **SIEM & Monitoring** | Wazuh, Log Analysis, Alert Triage, Anomaly Detection |
-| **Secure Development** | OWASP Top 10, Input Sanitisation, XSS/CSRF Mitigation, CSP, JWT Auth |
-| **Vulnerability Research** | Risk Scoring, KYC Fraud Detection, Threat Classification |
-| **Cloud Security** | AWS (Cloud Practitioner), Microsoft Azure Fundamentals |
+| 🎯 **40%** | 🎣 **94.7%** | 🧪 **430+** | 🏁 **Top 2%** | 💻 **783** |
+|:--:|:--:|:--:|:--:|:--:|
+| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>117 rooms · 25 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
 
 </div>
 
 ---
 
-## `$ cat ./stack.conf`
+## 🔁 `$ cat soc_playbook.md` — how I handle an alert
 
-**Languages**
+```mermaid
+flowchart LR
+    A[🚨 SIEM / XDR Alert<br/>Wazuh · Splunk] --> B{Triage<br/>confirm / adjust<br/>criticality}
+    B -->|Benign| C[✅ False Positive<br/>document + tune rule]
+    B -->|Suspicious| D[🔎 Investigate<br/>logs · user activity<br/>traffic patterns]
+    D --> E[🧭 Enrich & Map<br/>IOCs · MITRE ATT&CK]
+    E --> F{High risk?}
+    F -->|No| G[📝 Close with notes]
+    F -->|Yes| H[⬆️ Escalate to Tier 2<br/>evidence-backed report]
+    H --> I[🛠️ Contain → Eradicate → Recover]
+    C -.feedback.-> A
+```
+
+---
+
+## 💼 `$ cat experience.log`
+
+```diff
++ [JUN 2026 – JUL 2026]  Cyber Security Intern — Bright Hub Pvt Ltd, Jaipur
+  › Identified SQLi & XSS attack vectors in lab web apps through VAPT (OWASP Top 10, Burp Suite)
+  › Analysed intercepted HTTP/HTTPS traffic to isolate malicious payloads — the activity a SOC flags in WAF logs
+  › Documented findings with CVSS severity, evidence & remediation → escalation-ready incident reports
+
++ [JUN 2025 – JUL 2025]  Web Development Intern (Secure Coding) — Renao Robotics Pvt Ltd, Jaipur
+  › Security-audited a production web app and closed 5+ gaps (exposed API keys, missing input validation), zero regressions
+  › Enforced Content Security Policy, sanitized input, XSS-safe DOM handling, parameterized Node.js/MySQL queries
+  › Shipped 3+ React interfaces in Git-based Agile sprints with OWASP Top 10 controls in place
+```
+
+---
+
+## 🧰 `$ ls ./projects/ --sort=impact`
+
+<details open>
+<summary><b>🐍 HydraX — Bug Bounty Automation Platform</b> &nbsp;·&nbsp; <code>Python · FastAPI · PostgreSQL · Celery · Docker</code></summary>
+<br/>
+
+- **25 scanner modules** (XSS, SQLi, SSRF, IDOR, XXE, API security) mapped to OWASP Top 10, on a threaded scan engine with circuit breaker, adaptive rate limiting and Nmap / Nuclei / Nikto integration
+- **Alert-fatigue control:** findings tiered into *confirmed / possible / info* using baseline-controlled evidence, prioritised with a **0–100 risk score** from 5 weighted factors, plus SOAR-style webhook escalation
+- Multi-tenant backend correlates telemetry from signed connector agents → CWE-mapped reports (HTML · JSON · **SARIF**), backed by **430+ tests** and a CI pipeline with **Bandit, Gitleaks, Trivy**
+
+</details>
+
+<details open>
+<summary><b>🛡️ <a href="https://github.com/deepmaha2006/FraudShield">FraudShield</a> — Real-Time Anomaly Detection & Alert Escalation Engine</b> &nbsp;·&nbsp; <code>Python · Node.js · SQLite · OCR</code></summary>
+<br/>
+
+- SIEM-style correlation and detection rules flagged high-risk KYC cases across **500+ records at ~91% accuracy**
+- SOC-style alert dashboard fed by 3 classifiers → **40% less manual triage**, alert response **under 60 seconds**
+- 🏆 **Smart India Hackathon 2025 national nominee** (Team Drishti), presented to a 5-member evaluation panel
+
+</details>
+
+<details>
+<summary><b>🎣 <a href="https://github.com/deepmaha2006/PhishGuard">PhishGuard</a> — Phishing URL Detection Tool</b> &nbsp;·&nbsp; <code>Python</code></summary>
+<br/>
+
+- **94.7% accuracy · 93.2% precision · 96.1% recall · F1 94.6%** against PhishTank and DMOZ samples
+- 20+ heuristic indicators: domain entropy, brand spoofing, URL shorteners, IP-based hosts, risky TLDs
+- 0–100 risk score with per-indicator breakdown and bulk JSON export; runs fully offline with no third-party APIs
+
+</details>
+
+<details>
+<summary><b>📡 Wazuh SIEM Home Lab</b> &nbsp;·&nbsp; <code>Wazuh · Linux</code></summary>
+<br/>
+
+- Deployed a Wazuh manager and agents for centralised visibility into endpoint and authentication logs
+- Practised Tier 1 triage, false-positive review and escalation notes mapped to MITRE ATT&CK
+
+</details>
+
+<details>
+<summary><b>💉 <a href="https://github.com/deepmaha2006/SQLShield">SQLShield</a> — SQL Injection Scanner</b> &nbsp;·&nbsp; <code>Python</code></summary>
+<br/>
+
+- **85+ payloads** across 5 techniques (error, boolean, time, UNION, comment-based) with MySQL, PostgreSQL, MSSQL and Oracle variants
+- Findings rated High / Medium / Low in JSON reports
+
+</details>
+
+<details>
+<summary><b>🌐 <a href="https://github.com/deepmaha2006/NetSentinel">NetSentinel</a> — Asynchronous Port Scanner</b> &nbsp;·&nbsp; <code>C++20 · Boost.Asio · CMake</code></summary>
+<br/>
+
+- Non-blocking TCP scanner: open / closed / filtered classification, banner grabbing, 40+ well-known service mappings for attack-surface discovery
+
+</details>
+
+<details>
+<summary><b>🔐 <a href="https://github.com/deepmaha2006/SecureVault">SecureVault</a> — Local Password Manager</b> &nbsp;·&nbsp; <code>Python · Flask · JavaScript</code></summary>
+<br/>
+
+- Fernet (AES-128-CBC + HMAC-SHA256) encryption with PBKDF2-HMAC-SHA256 key derivation at **480,000 iterations**
+- Secure password generation and live strength analysis; all data stays on-device
+
+</details>
+
+<div align="center">
+<sub>▸ click any project to expand / collapse</sub>
+</div>
+
+---
+
+## ⚔️ `$ cat ./arsenal.conf`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔵 Blue Team — Detect & Respond**
+
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM%2FXDR-005571?style=flat-square&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat-square&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2E3440?style=flat-square)
+![EDR](https://img.shields.io/badge/EDR_%2F_SOAR_concepts-4C566A?style=flat-square)
+
+<sub>Alert triage & prioritisation · event correlation · detection rules · log & traffic analysis · phishing analysis · incident documentation · escalation</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Red Team — Assess & Exploit**
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-66C430?style=flat-square)
+![Nuclei](https://img.shields.io/badge/Nuclei-5B21B6?style=flat-square)
+
+<sub>OWASP Top 10 · CVSS scoring · privilege escalation · Active Directory (labs) · OSINT · attack-surface mapping</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**☁️ Cloud & DevSecOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy_·_Gitleaks_·_Bandit-1904DA?style=flat-square)
+
+</td>
+<td valign="top">
+
+**💻 Code & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Security Tools**
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-00ADD8?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=flat-square&logoColor=white)
-
-**Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ cat ./certifications.log`
+## 📜 `$ cat ./certifications.log`
 
-```
-[APR 2026] ✅ Introduction to Python for Defensive Security — Red Team Leaders
-[APR 2026] ✅ Introduction to Penetration Testing — Security Blue Team
-[APR 2026] ✅ Tata - Cybersecurity Analyst Job Simulation — TATA / Forage
-[MAY 2026] ✅ Cybersecurity Analyst Job Simulation — (Certificate of Completion: May 28th, 2026)
-[APR 2026] ✅ Data Analyst - Big 4 Ready — OneRoadmap
-[MAY 2026] ✅ Cyber Job Simulation — Deloitte / Forage (Certificate of Completion: May 6th, 2026)
-[MAY 2026] ✅ Internal Audit Job Simulation — Goldman Sachs / Forage (Certificate of Completion: May 6th, 2026)
-[APR 2026] ✅ Ethical Hacker — Cisco Networking Academy
-[APR 2026] ✅ Introduction to Cybersecurity — Cisco Networking Academy
-[APR 2026] ✅ AWS Cloud Practitioner Essential — Amazon Web Services (26th April 2026)
-[APR 2026] ✅ Career Essentials in Generative AI by Microsoft and LinkedIn — Microsoft & LinkedIn (Completed Apr 30, 2026)
-[APR 2026] ✅ Introduction to Model Context Protocol — Anthropic (Issued: April 21, 2026)
-[APR 2026] ✅ Claude 101 — Anthropic
-[APR 2026] ✅ Claude Code in Action — Anthropic
-[APR 2026] ✅ Claude with Google Vertex AI — Anthropic (Issued: April 22, 2026)
-[APR 2026] ✅ AI Fluency: Framework & Foundations — Anthropic
-[APR 2026] ✅ Ethics in the Age of Generative AI — PMI (Completed Apr 30, 2026)
-[FEB 2026] ✅ Modern DevOps Practices: Search, Automation & Workflow Orchestration — 8Bit System / Poornima CE *(06-02-2026)*
-[EVENTS] ✅ Internal Smart India Hackathon 2025 — Participation Certificate *(Sept 15-16, 2025 | Nominated for SIH 2025)*
-[EVENTS] ✅ LNMHACKS 8.0 — Certificate of Participation
-[EVENTS] ✅ Smart India Hackathon 2025 — Nomination (Team Drishti) (Letter dated Sept 20, 2025)
-[AUG 2025] ✅ Design Thinking — A Primer (NPTEL) — IIT Madras / Swayam *(consolidated score: 48% | Jul-Aug 2025)*
-[EVENTS] ✅ Industrial Training (Web Development) — Renao Robotics Pvt Ltd *(15-day internship)*
-[APR 2026] ✅ HTML, CSS, JS Certificate
-[APR 2026] ✅ Deloitte Australia - Cyber Job Simulation — Deloitte / Forage
-[APR 2026] ✅ Azure Fundamentals — Microsoft Learn
-```
+<details open>
+<summary><b>🔐 Cybersecurity</b></summary>
 
----
+| Certification | Issuer | Date |
+|---|---|:--:|
+| **Ethical Hacker** | Cisco Networking Academy | Apr 2026 |
+| Introduction to Cybersecurity | Cisco Networking Academy | Apr 2026 |
+| Cyber Job Simulation | Deloitte (Forage) | May 2026 |
+| Cybersecurity Analyst Job Simulation — Identity & Access Management | Tata Group (Forage) | May 2026 |
+| Introduction to Python for Defensive Security | Red Team Leaders | Jun 2026 |
+| Introduction to Penetration Testing | Centri | Jun 2026 |
+| Introduction to Critical Infrastructure Protection | OPSWAT Academy | Jul 2026 |
 
-## `$ cat ./achievements.log`
+</details>
 
-```
-[SEPT 2025] 🏆 Smart India Hackathon 2025 — Nominated by Poornima College IIC
-            → FraudShield: Cybersecurity OCR anomaly-detection engine (Team: Drishti)
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 
-[JAN  2026] 🥊 LNMHACKS 8.0 @ LNMIIT, Jaipur — Participant (72-hr hackathon)
-            → Stock prediction platform: ML regression + blockchain audit trail
+| Certification | Issuer | Date |
+|---|---|:--:|
+| AWS Cloud Practitioner Essentials | Amazon Web Services | Apr 2026 |
+| Introduction to Cloud Infrastructure: Describe Cloud Concepts | Microsoft Learn | Apr 2026 |
+| Modern DevOps Practices | 8Bit System / Poornima College of Engineering | Feb 2026 |
 
-[FEB  2025] 🥉 AADHAR'13 Tech-Fest — 3rd Place, Micro Mouse
-            → Autonomous maze-solving robot: embedded systems + pathfinding algorithms
-```
+</details>
+
+<details>
+<summary><b>📊 Risk, Data & AI</b></summary>
+
+| Certification | Issuer | Date |
+|---|---|:--:|
+| Internal Audit Job Simulation — Risk Assessment | Goldman Sachs (Forage) | May 2026 |
+| Data Analyst — Big 4 Ready | OneRoadmap | May 2026 |
+| Career Essentials in Generative AI | Microsoft & LinkedIn | Apr 2026 |
+| AI Fluency: Framework & Foundations | Anthropic | Apr 2026 |
+| Introduction to Model Context Protocol | Anthropic | Apr 2026 |
+| Design Thinking — A Primer | NPTEL, IIT Madras | Aug 2025 |
+
+</details>
 
 ---
 
-## `$ netstat -connect`
+## 🏆 `$ cat ./achievements.log`
+
+```diff
++ [SEP 2025] 🏅 Smart India Hackathon 2025 — National Nominee (Team Drishti, Poornima College IIC)
+             → FraudShield: anomaly detection & alert escalation engine
++ [ONGOING ] 🚩 TryHackMe — Top 2% globally · 117 rooms · 25 badges (SOC, blue team, offensive)
++ [JAN 2026] 🧑‍💻 LNMHACKS 8.0 @ LNMIIT — Team Leader
+             → stock prediction platform with blockchain-backed immutable audit trail
++ [FEB 2025] 🥉 AADHAR'13 Tech-Fest — 3rd Place, Micro Mouse (autonomous maze-solving robot)
++ [ONGOING ] 🧠 LeetCode — 783 problems solved
+```
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/deepeshmaha2006"><img src="https://tryhackme-badges.s3.amazonaws.com/deepeshmaha2006.png" alt="TryHackMe badge"/></a>
+
+</div>
+
+---
+
+## 📈 `$ git log --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=deepmaha2006&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepmaha2006&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=deepmaha2006&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=E6FFE9&dates=8B949E&currStreakNum=E6FFE9&sideNums=E6FFE9" alt="GitHub streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepmaha2006&bg_color=0d1117&color=00ff41&line=00ff41&point=e6ffe9&area=true&area_color=00ff41&hide_border=true&radius=8" alt="Contribution activity graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+## 📡 `$ ./connect.sh`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deepesh--mahawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-mahawar/)
-[![GitHub](https://img.shields.io/badge/GitHub-deepmaha2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepmaha2006)
-[![Email](https://img.shields.io/badge/Email-deepeshmahawar2006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepeshmahawar2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-deepeshmahawar2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepeshmahawar2006@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-deepeshmaha2006-c11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/deepeshmaha2006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-deeponworkattime-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/deeponworkattime/)
 
-</div>
-
----
-
-## `$ git log --stats`
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepmaha2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&border_radius=8)](https://github.com/deepmaha2006)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deepmaha2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true)](https://github.com/deepmaha2006)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepmaha2006&radius=8&theme=react-dark&area=true&hide_border=true)](https://github.com/deepmaha2006)
-
-</div>
-
----
-
-<div align="center">
-
-```
-[ STATUS: OPEN TO CYBERSECURITY INTERNSHIPS — 2025/26 ]
-[ BUILDING: tools that find what attackers look for    ]
-[ MOTTO:    breaking systems to secure them — ethically ]
+```text
+[ STATUS  ] ● online  — open to SOC Analyst / Security Analyst roles & internships
+[ MISSION ] detect early · triage fast · escalate with evidence
+[ MOTTO   ] think like an attacker, defend like an analyst
 ```
 
-*"Security is not a product, it's a process."* — Bruce Schneier
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0b1f14,100:000000&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
