@@ -44,7 +44,7 @@ I'm a cybersecurity undergraduate who works on the blue team with a red-team bac
 
 | 🎯 **40%** | 🎣 **94.7%** | 🧪 **430+** | 🏁 **Top 2%** | 💻 **783** |
 |:--:|:--:|:--:|:--:|:--:|
-| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>117 rooms · 25 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
+| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>121 rooms · 25 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
 
 </div>
 
@@ -269,7 +269,7 @@ flowchart LR
 ```diff
 + [SEP 2025] 🏅 Smart India Hackathon 2025 — National Nominee (Team Drishti, Poornima College IIC)
              → FraudShield: anomaly detection & alert escalation engine
-+ [ONGOING ] 🚩 TryHackMe — Top 2% globally · 117 rooms · 25 badges (SOC, blue team, offensive)
++ [ONGOING ] 🚩 TryHackMe — [0xD][LEGEND] · Top 2% globally · Rank #36,596 · 121 rooms · 25 badges
 + [JAN 2026] 🧑‍💻 LNMHACKS 8.0 @ LNMIIT — Team Leader
              → stock prediction platform with blockchain-backed immutable audit trail
 + [FEB 2025] 🥉 AADHAR'13 Tech-Fest — 3rd Place, Micro Mouse (autonomous maze-solving robot)
@@ -278,7 +278,15 @@ flowchart LR
 
 <div align="center">
 
+### 🚩 TryHackMe — `[0xD][LEGEND]`
+
+| 🏆 Global Rank | 📊 Percentile | 🚪 Rooms Completed | 🎖️ Badges | 🔥 Streak |
+|:--:|:--:|:--:|:--:|:--:|
+| **#36,596** | **Top 2%** | **121** | **25** | **18 days** |
+
 <a href="https://tryhackme.com/p/deepeshmaha2006"><img src="https://tryhackme-badges.s3.amazonaws.com/deepeshmaha2006.png" alt="TryHackMe badge"/></a>
+
+<sub>SOC Level 1 · Blue Team · Web App Pentesting · Offensive Security paths</sub>
 
 </div>
 
