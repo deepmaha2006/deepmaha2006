@@ -286,7 +286,7 @@ flowchart LR
 
 <a href="https://tryhackme.com/p/deepeshmaha2006"><img src="https://tryhackme-badges.s3.amazonaws.com/deepeshmaha2006.png" alt="TryHackMe badge"/></a>
 
-<sub>SOC Level 1 · Blue Team · Web App Pentesting · Offensive Security paths</sub>
+<sub>SOC · Blue Team · Offensive Security content</sub>
 
 </div>
 
