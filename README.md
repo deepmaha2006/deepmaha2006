@@ -297,18 +297,20 @@ flowchart LR
 ---
 
 ## 📈 `$ git log --stats`
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deepmaha2006&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" alt="GitHub stats"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=deepmaha2006&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=E6FFE9&dates=8B949E&currStreakNum=E6FFE9&sideNums=E6FFE9" alt="GitHub streak"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepmaha2006&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" alt="Top languages"/>
-<img src="https://streak-stats.demolab.com?user=deepmaha2006&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=E6FFE9&dates=8B949E&currStreakNum=E6FFE9&sideNums=E6FFE9" alt="GitHub streak"/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepmaha2006&bg_color=0d1117&color=00ff41&line=00ff41&point=e6ffe9&area=true&area_color=00ff41&hide_border=true&radius=8" alt="Contribution activity graph"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/deepmaha2006/deepmaha2006/output/pacman-contribution-graph.svg">
 </picture>
-</div>
 
+</div>
 ---
 
 ## 📡 `$ ./connect.sh`
