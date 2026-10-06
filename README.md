@@ -282,7 +282,7 @@ flowchart LR
 
 | 🏆 Global Rank | 📊 Percentile | 🚪 Rooms Completed | 🎖️ Badges | 🔥 Streak |
 |:--:|:--:|:--:|:--:|:--:|
-| **#36,596** | **Top 2%** | **121** | **25** | **18 days** |
+| **#23,482** | **Top 1%** | **158** | **27** | **21 days** |
 
 <a href="https://tryhackme.com/p/deepeshmaha2006">
 <img src="https://img.shields.io/badge/deepeshmaha2006-%5B0xD%5D%5BLEGEND%5D-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42" alt="TryHackMe deepeshmaha2006 [0xD][LEGEND]"/>
