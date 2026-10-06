@@ -7,7 +7,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SOC%20ROLES%20%26%20INTERNSHIPS-00ff41?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
-<img src="https://img.shields.io/badge/TryHackMe-TOP%202%25%20GLOBAL-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe Top 2%"/>
+<img src="https://img.shields.io/badge/TryHackMe-TOP%202%25%20GLOBAL-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe Top 1%"/>
 <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" alt="Cisco Ethical Hacker"/>
 </p>
 
@@ -42,9 +42,9 @@ I'm a cybersecurity undergraduate who works on the blue team with a red-team bac
 
 <div align="center">
 
-| 🎯 **40%** | 🎣 **94.7%** | 🧪 **430+** | 🏁 **Top 2%** | 💻 **783** |
+| 🎯 **40%** | 🎣 **94.7%** | 🧪 **430+** | 🏁 **Top 1%** | 💻 **802** |
 |:--:|:--:|:--:|:--:|:--:|
-| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>121 rooms · 25 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
+| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>158 rooms · 27 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
 
 </div>
 
