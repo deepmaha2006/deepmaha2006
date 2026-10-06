@@ -286,8 +286,8 @@ flowchart LR
 
 <a href="https://tryhackme.com/p/deepeshmaha2006">
 <img src="https://img.shields.io/badge/deepeshmaha2006-%5B0xD%5D%5BLEGEND%5D-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42" alt="TryHackMe deepeshmaha2006 [0xD][LEGEND]"/>
-<img src="https://img.shields.io/badge/RANK-%2336%2C596-ffb800?style=for-the-badge&labelColor=212C42" alt="Rank 36,596"/>
-<img src="https://img.shields.io/badge/TOP-2%25-a3ea2a?style=for-the-badge&labelColor=212C42" alt="Top 2%"/>
+<img src="https://img.shields.io/badge/RANK-%2336%2C596-ffb800?style=for-the-badge&labelColor=212C42" alt="Rank 23,482"/>
+<img src="https://img.shields.io/badge/TOP-2%25-a3ea2a?style=for-the-badge&labelColor=212C42" alt="Top 1%"/>
 </a>
 
 <sub>SOC · Blue Team · Offensive Security content</sub>
