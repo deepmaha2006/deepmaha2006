@@ -7,7 +7,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SOC%20ROLES%20%26%20INTERNSHIPS-00ff41?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
-<img src="https://img.shields.io/badge/TryHackMe-TOP%202%25%20GLOBAL-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe Top 1%"/>
+<img src="https://img.shields.io/badge/TryHackMe-TOP%201%25%20GLOBAL-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe Top 1%"/>
 <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" alt="Cisco Ethical Hacker"/>
 </p>
 
@@ -42,9 +42,9 @@ I'm a cybersecurity undergraduate who works on the blue team with a red-team bac
 
 <div align="center">
 
-| 🎯 **40%** | 🎣 **94.7%** | 🧪 **430+** | 🏁 **Top 1%** | 💻 **802** |
+| 🎯 **40%** | 🎣 **94.7%** | 🧪 **430+** | 🏁 **Top 1%** | 💻 **804** |
 |:--:|:--:|:--:|:--:|:--:|
-| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>158 rooms · 27 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
+| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>188 rooms · 27 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
 
 </div>
 
@@ -269,11 +269,11 @@ flowchart LR
 ```diff
 + [SEP 2025] 🏅 Smart India Hackathon 2025 — National Nominee (Team Drishti, Poornima College IIC)
              → FraudShield: anomaly detection & alert escalation engine
-+ [ONGOING ] 🚩 TryHackMe — [0xD][LEGEND] · Top 2% globally · Rank #36,596 · 121 rooms · 25 badges
++ [ONGOING ] 🚩 TryHackMe — [0xD][LEGEND] · Top 1% globally · Rank #19,278 · 188 rooms · 27 badges
 + [JAN 2026] 🧑‍💻 LNMHACKS 8.0 @ LNMIIT — Team Leader
              → stock prediction platform with blockchain-backed immutable audit trail
 + [FEB 2025] 🥉 AADHAR'13 Tech-Fest — 3rd Place, Micro Mouse (autonomous maze-solving robot)
-+ [ONGOING ] 🧠 LeetCode — 783 problems solved
++ [ONGOING ] 🧠 LeetCode — 804 problems solved
 ```
 
 <div align="center">
@@ -282,12 +282,12 @@ flowchart LR
 
 | 🏆 Global Rank | 📊 Percentile | 🚪 Rooms Completed | 🎖️ Badges | 🔥 Streak |
 |:--:|:--:|:--:|:--:|:--:|
-| **#23,482** | **Top 1%** | **158** | **27** | **21 days** |
+| **#19,278** | **Top 1%** | **188** | **27** | **21 days** |
 
 <a href="https://tryhackme.com/p/deepeshmaha2006">
 <img src="https://img.shields.io/badge/deepeshmaha2006-%5B0xD%5D%5BLEGEND%5D-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42" alt="TryHackMe deepeshmaha2006 [0xD][LEGEND]"/>
-<img src="https://img.shields.io/badge/RANK-%2336%2C596-ffb800?style=for-the-badge&labelColor=212C42" alt="Rank 23,482"/>
-<img src="https://img.shields.io/badge/TOP-2%25-a3ea2a?style=for-the-badge&labelColor=212C42" alt="Top 1%"/>
+<img src="https://img.shields.io/badge/RANK-%2319%2C278-ffb800?style=for-the-badge&labelColor=212C42" alt="Rank 19,278"/>
+<img src="https://img.shields.io/badge/TOP-1%25-a3ea2a?style=for-the-badge&labelColor=212C42" alt="Top 1%"/>
 </a>
 
 <sub>SOC · Blue Team · Offensive Security content</sub>
