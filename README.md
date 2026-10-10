@@ -44,7 +44,7 @@ I'm a cybersecurity undergraduate who works on the blue team with a red-team bac
 
 | 🎯 **40%** | 🎣 **94.7%** | 🧪 **430+** | 🏁 **Top 1%** | 💻 **804** |
 |:--:|:--:|:--:|:--:|:--:|
-| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>188 rooms · 27 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
+| less manual alert triage<br/><sub>FraudShield</sub> | phishing detection accuracy<br/><sub>PhishGuard</sub> | automated tests<br/><sub>HydraX</sub> | TryHackMe globally<br/><sub>278 rooms · 27 badges</sub> | LeetCode problems<br/><sub>solved</sub> |
 
 </div>
 
@@ -269,7 +269,7 @@ flowchart LR
 ```diff
 + [SEP 2025] 🏅 Smart India Hackathon 2025 — National Nominee (Team Drishti, Poornima College IIC)
              → FraudShield: anomaly detection & alert escalation engine
-+ [ONGOING ] 🚩 TryHackMe — [0xD][LEGEND] · Top 1% globally · Rank #19,278 · 188 rooms · 27 badges
++ [ONGOING ] 🚩 TryHackMe — [0xE][GUARDIAN] · Top 1% globally · Rank #7,969 · 278 rooms · 27 badges
 + [JAN 2026] 🧑‍💻 LNMHACKS 8.0 @ LNMIIT — Team Leader
              → stock prediction platform with blockchain-backed immutable audit trail
 + [FEB 2025] 🥉 AADHAR'13 Tech-Fest — 3rd Place, Micro Mouse (autonomous maze-solving robot)
@@ -278,15 +278,15 @@ flowchart LR
 
 <div align="center">
 
-### 🚩 TryHackMe — `[0xD][LEGEND]`
+### 🚩 TryHackMe — `[0xE][GUARDIAN]`
 
 | 🏆 Global Rank | 📊 Percentile | 🚪 Rooms Completed | 🎖️ Badges | 🔥 Streak |
 |:--:|:--:|:--:|:--:|:--:|
-| **#19,278** | **Top 1%** | **188** | **27** | **21 days** |
+| **#7,969** | **Top 1%** | **278** | **27** | **26 days** |
 
 <a href="https://tryhackme.com/p/deepeshmaha2006">
-<img src="https://img.shields.io/badge/deepeshmaha2006-%5B0xD%5D%5BLEGEND%5D-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42" alt="TryHackMe deepeshmaha2006 [0xD][LEGEND]"/>
-<img src="https://img.shields.io/badge/RANK-%2319%2C278-ffb800?style=for-the-badge&labelColor=212C42" alt="Rank 19,278"/>
+<img src="https://img.shields.io/badge/deepeshmaha2006-%5B0xE%5D%5BGUARDIAN%5D-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42" alt="TryHackMe deepeshmaha2006 [0xE][GUARDIAN]"/>
+<img src="https://img.shields.io/badge/RANK-%237%2C969-ffb800?style=for-the-badge&labelColor=212C42" alt="Rank 7,969"/>
 <img src="https://img.shields.io/badge/TOP-1%25-a3ea2a?style=for-the-badge&labelColor=212C42" alt="Top 1%"/>
 </a>
 
